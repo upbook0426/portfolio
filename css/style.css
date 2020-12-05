@@ -85,8 +85,8 @@ li {
   -ms-align-items: center;
   align-items: center;
   height: 480px;
-  background-size: auto 100%;
-  background: url(../img/header/background.png) center center;
+  background: url(../img/header/background.png) center;
+  background-size: cover;
 }
 
 #header .logo {
@@ -108,8 +108,8 @@ li {
 
 #header .logo-title {
   font-family: "Oswald", sans-serif;
-  font-size: 94px;
   color: #fff;
+  font-size: 60px;
   line-height: 1;
   letter-spacing: -2px;
 }
@@ -496,7 +496,7 @@ li {
     height: 200px;
   }
   #header .logo-title {
-    font-size: 56px;
+    font-size: 35px;
   }
   #header .logo-name {
     top: 0;
