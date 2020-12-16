@@ -209,7 +209,7 @@ li {
 }
 
 .two-column-image {
-  width: 33%;
+  width: 22%;
 }
 
 .two-column-image img {
@@ -386,7 +386,17 @@ li {
 #skill .rate5:after {
   width: 100px;
 }
+/*--------------------------------
+  Remarks
+  --------------------------------*/
 
+ .remarks-title {
+  padding-left: 12%;
+  font-weight: bold;
+  }
+ .remarks {
+  padding-left: 12% ;
+  }
 
 /*--------------------------------
    Footer
