@@ -311,7 +311,7 @@ li {
   -ms-flex-pack: justify;
   justify-content: space-between;
   min-height: 300px;
-  line-height: 0.1rem;
+  line-height: 0.5rem;
 }
 
 #skill .skill-icon {
